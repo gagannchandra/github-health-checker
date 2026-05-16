@@ -10,7 +10,7 @@ Built with **FastAPI · GitHub REST API · NVIDIA LLaMA 3.1**
 
 ## 🎥 Demo
 
-> 📽️ **[Watch Demo Video](#)**
+> 📽️ **[Watch Demo Video](https://youtu.be/M27N7L4T-bE)**
 
 ---
 
