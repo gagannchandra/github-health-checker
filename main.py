@@ -3,7 +3,6 @@ from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse, JSONResponse
 from github_api import collect_metrics
 from llm import analyze_repo
-
 from pydantic import BaseModel
 
 class RepoRequest(BaseModel):
@@ -11,6 +10,8 @@ class RepoRequest(BaseModel):
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
+
+# for uptotime robot
 
 @app.get("/health")
 @app.head("/health")
