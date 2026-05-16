@@ -207,7 +207,6 @@ pydantic
 - [ ] Add repository comparison mode (repo A vs repo B)
 - [ ] Export health report as PDF
 - [ ] GitHub Actions CI badge integration
-- [ ] Deploy to Render / Railway
 
 ---
 
