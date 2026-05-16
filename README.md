@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/pulse-24.svg" width="32" height="32" style="vertical-align: middle; filter: invert(1);"> GitHub Repository Health Checker
 
-> **Live Demo:** [https://github-health-checker-ktmb.onrender.com/](https://github-health-checker-ktmb.onrender.com/)
+> **Live Demo:** <a href="https://github-health-checker-ktmb.onrender.com/" target="_blank" rel="noopener noreferrer">https://github-health-checker-ktmb.onrender.com/</a>
 
 An AI-powered tool that analyzes any public GitHub repository and generates a structured health report — covering activity, strengths, concerns, and an overall health score.
 
@@ -10,8 +10,7 @@ Built with **FastAPI · GitHub REST API · NVIDIA LLaMA 3.1**
 
 ## 🎥 Demo
 
-> 📽️ **[Watch Demo Video](https://youtu.be/M27N7L4T-bE)**
-
+> 📽️ <a href="https://youtu.be/M27N7L4T-bE" target="_blank" rel="noopener noreferrer">Watch Demo Video</a>
 ---
 
 ## ✨ Features
